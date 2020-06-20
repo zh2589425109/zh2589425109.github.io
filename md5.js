@@ -1,1 +1,3 @@
-mP/PEmQ0O2JTHy52m6k0FBJMZ4jzSh9g
+{
+    "keyLength": 64
+}
