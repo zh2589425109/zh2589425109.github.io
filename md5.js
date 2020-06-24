@@ -21,5 +21,6 @@
     "hotCodeUrl": "https://update-0001.17itou.com/hot_code_com.zhanzhuyun.kdkb_dist/koudai/",
     "hotCodeZipUrl": "https://update-0001.17itou.com/hot_code_com.zhanzhuyun.kdkb_dist/koudai_zip/",
     "enableHotCode": true,
-    "enableHotCodeZip": true
+    "enableHotCodeZip": true,
+    "enableBlue": false
   }
