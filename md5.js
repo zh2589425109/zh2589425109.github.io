@@ -19,8 +19,6 @@
     "http://kt.59itou.com/others/scheme/index.html",
     "https://h5.sim.51yueqian.net",
     "http://h5.sim.51yueqian.net",
-    "https://kt.59itou.com/hot_code_com.itou.sim.client_dist/koudai",
-    "http://kt.59itou.com/hot_code_com.itou.sim.client_dist/koudai",
     "https://engine.qazxsdc.com/index/activity",
     "http://engine.qazxsdc.com/index/activity",
     "https://activity4.xinxuezl.com/activity",
